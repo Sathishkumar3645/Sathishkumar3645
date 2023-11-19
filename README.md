@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sathishkumar
 - 👀 I’m interested in Data science and AI
-- 🌱 I’m currently learning ML, DL and NLP
+- 🌱 Working proffesional on ML, DL and NLP with some cutting edge technologies.
 - 📫 How to reach me sathishkumar.sk236@gmail.com
 
 <!---
