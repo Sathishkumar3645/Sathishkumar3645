@@ -1,4 +1,4 @@
-👋 Hey there! I'm Sathish Kumar, a seasoned data scientist with 4.5 years of experience specializing in machine learning (ML), natural language processing (NLP), and deep learning (DL). 🤖
+👋 Hey there! I'm Sathish Kumar, a seasoned data scientist with 5+ years of experience specializing in machine learning (ML), natural language processing (NLP), and deep learning (DL). 🤖
 
 🌟 Proficient in customizing and fine-tuning state-of-the-art language models (LLMs) like BERT, GPT, LLAMA, Mistral etc, I'm passionate about harnessing the power of AI to tackle real-world challenges head-on. 💡
 
